@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : (n%100>=3 && n%100<=10) ? 3 : n%100>=11 ? 4 : 5);\n"
-"X-Language: ar_EG\n"
+"X-Language: ar_SA\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
 
@@ -253,11 +253,11 @@ msgstr ""
 
 msgctxt "BackupComboBox|"
 msgid "1 hour"
-msgstr ""
+msgstr "ساعة واحدة"
 
 msgctxt "BackupComboBox|"
 msgid "3 hours"
-msgstr ""
+msgstr "3 ساعات"
 
 msgctxt "BackupComboBox|"
 msgid "1 day"
@@ -277,7 +277,7 @@ msgstr ""
 
 msgctxt "BackupSlider|"
 msgid "3 hours"
-msgstr ""
+msgstr "3 ساعات"
 
 msgctxt "BackupSlider|"
 msgid "1 day"
@@ -285,15 +285,15 @@ msgstr ""
 
 msgctxt "BaseTextArea|"
 msgid "Cut"
-msgstr ""
+msgstr "قص"
 
 msgctxt "BaseTextArea|"
 msgid "Copy"
-msgstr ""
+msgstr "نسخ"
 
 msgctxt "BaseTextArea|"
 msgid "Paste"
-msgstr ""
+msgstr "لصق"
 
 msgctxt "BaseTextField|"
 msgid "Cut"
@@ -301,11 +301,11 @@ msgstr ""
 
 msgctxt "BaseTextField|"
 msgid "Copy"
-msgstr ""
+msgstr "نسخ"
 
 msgctxt "BaseTextField|"
 msgid "Paste"
-msgstr ""
+msgstr "لصق"
 
 msgctxt "BatchVideoQuality|"
 msgid "Preferred Video Quality:"
@@ -390,11 +390,11 @@ msgstr ""
 
 msgctxt "Browser|"
 msgid "YES"
-msgstr ""
+msgstr "نعم"
 
 msgctxt "Browser|"
 msgid "NO"
-msgstr ""
+msgstr "لا"
 
 msgctxt "Browser MainMenu|"
 msgid "Back to %1"
@@ -1862,7 +1862,7 @@ msgstr ""
 
 msgctxt "PreferredFileTypeCombobox|"
 msgid "Video"
-msgstr ""
+msgstr "فيديو"
 
 msgctxt "PreferredVideoQualityCombobox|"
 msgid "Low (240p)"
@@ -2405,7 +2405,7 @@ msgstr ""
 
 msgctxt "QObject|"
 msgid "Failed."
-msgstr ""
+msgstr "فشل."
 
 msgctxt "QObject|"
 msgid "Missing %path% parameter."
@@ -3008,7 +3008,7 @@ msgstr ""
 
 msgctxt "UpdateDialog|"
 msgid "Later"
-msgstr ""
+msgstr "لاحقا"
 
 msgctxt "UpdateDialog|"
 msgid "Check for updates"
@@ -3028,7 +3028,7 @@ msgstr ""
 
 msgctxt "VoteBlock|"
 msgid "Yes!"
-msgstr ""
+msgstr "نعم!"
 
 msgctxt "VoteBlock|"
 msgid "Thanks a lot! Please rate on Google Play."
@@ -3036,7 +3036,7 @@ msgstr ""
 
 msgctxt "VoteBlock|"
 msgid "Later"
-msgstr ""
+msgstr "لاحقا"
 
 msgctxt "VoteBlock|"
 msgid "No, thanks"
