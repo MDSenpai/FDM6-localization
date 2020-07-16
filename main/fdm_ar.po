@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : (n%100>=3 && n%100<=10) ? 3 : n%100>=11 ? 4 : 5);\n"
-"X-Language: ar_EG\n"
+"X-Language: ar_SA\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
 
 msgctxt "AboutDialog|"
 msgid "About"
-msgstr ""
+msgstr "حول"
 
 msgctxt "AboutDialog|"
 msgid "<a href='%1'>%2</a> version %3"
@@ -201,11 +201,11 @@ msgstr ""
 
 msgctxt "AuthenticationDialog|"
 msgid "Username:"
-msgstr ""
+msgstr "اسم المستخدم"
 
 msgctxt "AuthenticationDialog|"
 msgid "Password:"
-msgstr ""
+msgstr "كلمة السر"
 
 msgctxt "AuthenticationDialog|"
 msgid "remember"
@@ -233,7 +233,7 @@ msgstr ""
 
 msgctxt "AuthenticationPage|"
 msgid "Username"
-msgstr ""
+msgstr "اسم المستخدم"
 
 msgctxt "AuthenticationPage|"
 msgid "Password"
@@ -245,67 +245,67 @@ msgstr ""
 
 msgctxt "BackupComboBox|"
 msgid "5 minutes"
-msgstr ""
+msgstr "5 دقائق"
 
 msgctxt "BackupComboBox|"
 msgid "15 minutes"
-msgstr ""
+msgstr "15 دقيقة"
 
 msgctxt "BackupComboBox|"
 msgid "1 hour"
-msgstr ""
+msgstr "ساعة واحدة"
 
 msgctxt "BackupComboBox|"
 msgid "3 hours"
-msgstr ""
+msgstr "3 ساعات"
 
 msgctxt "BackupComboBox|"
 msgid "1 day"
-msgstr ""
+msgstr "يوم واحد"
 
 msgctxt "BackupSlider|"
 msgid "5 minutes"
-msgstr ""
+msgstr "5 دقائق"
 
 msgctxt "BackupSlider|"
 msgid "15 minutes"
-msgstr ""
+msgstr "15 دقيقة"
 
 msgctxt "BackupSlider|"
 msgid "1 hour"
-msgstr ""
+msgstr "ساعة واحدة"
 
 msgctxt "BackupSlider|"
 msgid "3 hours"
-msgstr ""
+msgstr "3 ساعات"
 
 msgctxt "BackupSlider|"
 msgid "1 day"
-msgstr ""
+msgstr "يوم واحد"
 
 msgctxt "BaseTextArea|"
 msgid "Cut"
-msgstr ""
+msgstr "قص"
 
 msgctxt "BaseTextArea|"
 msgid "Copy"
-msgstr ""
+msgstr "نسخ"
 
 msgctxt "BaseTextArea|"
 msgid "Paste"
-msgstr ""
+msgstr "لصق"
 
 msgctxt "BaseTextField|"
 msgid "Cut"
-msgstr ""
+msgstr "قص"
 
 msgctxt "BaseTextField|"
 msgid "Copy"
-msgstr ""
+msgstr "نسخ"
 
 msgctxt "BaseTextField|"
 msgid "Paste"
-msgstr ""
+msgstr "لصق"
 
 msgctxt "BatchVideoQuality|"
 msgid "Preferred Video Quality:"
@@ -313,7 +313,7 @@ msgstr ""
 
 msgctxt "BitrateComboBox|"
 msgid "kbps"
-msgstr ""
+msgstr "كب/ث"
 
 msgctxt "BitrateComboBox|"
 msgid "From %1 %2 to %3 %4"
@@ -325,11 +325,11 @@ msgstr ""
 
 msgctxt "BitrateComboBox|"
 msgid "High quality"
-msgstr ""
+msgstr "جودة عالية"
 
 msgctxt "BitrateComboBox|"
 msgid "Medium quality"
-msgstr ""
+msgstr "جودة متوسطة"
 
 msgctxt "BitrateComboBox|"
 msgid "Radio quality"
@@ -337,7 +337,7 @@ msgstr ""
 
 msgctxt "BitrateComboBox|"
 msgid "Low quality"
-msgstr ""
+msgstr "جودة منخفضة"
 
 msgctxt "BitrateComboBox|"
 msgid "Speech"
@@ -390,11 +390,11 @@ msgstr ""
 
 msgctxt "Browser|"
 msgid "YES"
-msgstr ""
+msgstr "نعم!"
 
 msgctxt "Browser|"
 msgid "NO"
-msgstr ""
+msgstr "لا"
 
 msgctxt "Browser MainMenu|"
 msgid "Back to %1"
@@ -452,7 +452,7 @@ msgstr ""
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Edit list"
-msgstr ""
+msgstr "تحرير القائمة"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Are you sure this is a valid domain?"
@@ -492,7 +492,7 @@ msgstr ""
 
 msgctxt "BrowserIntroDialog|"
 msgid "Continue"
-msgstr ""
+msgstr "متابعة"
 
 msgctxt "BrowserListElement|"
 msgid "(browser is not installed)"
@@ -814,11 +814,11 @@ msgstr "موافق"
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Delete this file?"
-msgstr ""
+msgstr "حذف هذا الملف؟"
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Delete selected files?"
-msgstr ""
+msgstr "هل تريد حذف الملفات المحددة؟"
 
 msgctxt "DeleteDownloadsDialogSimple|"
 msgid "Delete selected downloads"
@@ -939,7 +939,7 @@ msgstr "إظهار في المجلد"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Show Downloads"
-msgstr ""
+msgstr "إظهار التنزيلات"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Choose Files..."
@@ -1196,7 +1196,7 @@ msgstr "موافق"
 
 msgctxt "FilePickerPage|"
 msgid "Empty folder"
-msgstr ""
+msgstr "مجلد فارغ"
 
 msgctxt "FilePickerSortDialog|"
 msgid "By date"
@@ -1304,19 +1304,19 @@ msgstr "عام"
 
 msgctxt "GeneralSettings|"
 msgid "Choose theme"
-msgstr ""
+msgstr "اختر المظهر"
 
 msgctxt "GeneralSettings|"
 msgid "Light"
-msgstr ""
+msgstr "فاتح"
 
 msgctxt "GeneralSettings|"
 msgid "Dark"
-msgstr ""
+msgstr "داكن"
 
 msgctxt "GeneralSettings|"
 msgid "Language"
-msgstr ""
+msgstr "لغة"
 
 msgctxt "GeneralSettings|"
 msgid ""
@@ -1412,7 +1412,7 @@ msgstr ""
 
 msgctxt "GeneralTab|"
 msgid "Progress:"
-msgstr ""
+msgstr "التقدم:"
 
 msgctxt "HashAlgorithmCombobox|"
 msgid "MD5"
@@ -1432,7 +1432,7 @@ msgstr "تعيين كافتراضي"
 
 msgctxt "IntegrationBanner|"
 msgid "Don't ask again"
-msgstr ""
+msgstr "لا تسأل مرة أخرى"
 
 msgctxt "InvalidSettingsMessageDialog|"
 msgid ". Close anyway?"
@@ -1440,7 +1440,7 @@ msgstr ""
 
 msgctxt "LanguageDialog|"
 msgid "Language"
-msgstr ""
+msgstr "لغة"
 
 msgctxt "LeftDrawer|"
 msgid "Browser"
@@ -1460,7 +1460,7 @@ msgstr ""
 
 msgctxt "LeftDrawer|"
 msgid "Add new download"
-msgstr ""
+msgstr "إضافة تنزيل جديد"
 
 msgctxt "ListEditor|"
 msgid "Add"
@@ -1862,7 +1862,7 @@ msgstr ""
 
 msgctxt "PreferredFileTypeCombobox|"
 msgid "Video"
-msgstr ""
+msgstr "فيديو"
 
 msgctxt "PreferredVideoQualityCombobox|"
 msgid "Low (240p)"
@@ -2376,11 +2376,11 @@ msgstr "تحميل الفيديو بـ %1"
 
 msgctxt "QObject|"
 msgid "Video"
-msgstr ""
+msgstr "فيديو"
 
 msgctxt "QObject|"
 msgid "Music"
-msgstr ""
+msgstr "موسيقى"
 
 msgctxt "QObject|"
 msgid "There is not enough disk space."
@@ -3008,7 +3008,7 @@ msgstr ""
 
 msgctxt "UpdateDialog|"
 msgid "Later"
-msgstr ""
+msgstr "لاحقا"
 
 msgctxt "UpdateDialog|"
 msgid "Check for updates"
@@ -3028,7 +3028,7 @@ msgstr ""
 
 msgctxt "VoteBlock|"
 msgid "Yes!"
-msgstr ""
+msgstr "نعم!"
 
 msgctxt "VoteBlock|"
 msgid "Thanks a lot! Please rate on Google Play."
@@ -3036,7 +3036,7 @@ msgstr ""
 
 msgctxt "VoteBlock|"
 msgid "Later"
-msgstr ""
+msgstr "لاحقا"
 
 msgctxt "VoteBlock|"
 msgid "No, thanks"
